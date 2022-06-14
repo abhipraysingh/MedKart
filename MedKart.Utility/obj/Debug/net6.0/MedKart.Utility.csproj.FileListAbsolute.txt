@@ -1,0 +1,12 @@
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\bin\Debug\net6.0\MedKart.Utility.deps.json
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\bin\Debug\net6.0\MedKart.Utility.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\bin\Debug\net6.0\MedKart.Utility.pdb
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.csproj.AssemblyReference.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.AssemblyInfoInputs.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.AssemblyInfo.cs
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.csproj.CoreCompileInputs.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\refint\MedKart.Utility.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\MedKart.Utility.pdb
+D:\internship\Tek systems\Project\MedKart\MedKart.Utility\obj\Debug\net6.0\ref\MedKart.Utility.dll

@@ -1,0 +1,17 @@
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.csproj.AssemblyReference.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.AssemblyInfoInputs.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.AssemblyInfo.cs
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.csproj.CoreCompileInputs.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\bin\Debug\net6.0\MedKart.DataAccess.deps.json
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\bin\Debug\net6.0\MedKart.DataAccess.runtimeconfig.json
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\bin\Debug\net6.0\MedKart.DataAccess.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\bin\Debug\net6.0\MedKart.DataAccess.pdb
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\bin\Debug\net6.0\MedKart.Models.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\bin\Debug\net6.0\MedKart.Models.pdb
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.csproj.CopyComplete
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\refint\MedKart.DataAccess.dll
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.pdb
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\MedKart.DataAccess.genruntimeconfig.cache
+D:\internship\Tek systems\Project\MedKart\MedKart.DataAccess\obj\Debug\net6.0\ref\MedKart.DataAccess.dll

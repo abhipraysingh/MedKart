@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MedKart.Utility/1.0.0": {
+        "runtime": {
+          "MedKart.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedKart.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
